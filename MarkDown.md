@@ -68,7 +68,7 @@ __굵은 글씨__
 <img src="https://github.com/iamhoooo/TIL/assets/126745119/fb1f55a5-6aaa-4a0d-81ea-a5bb18c38da4" width="300">
 
 # 줄바꿈
-'<br>'으로 원하는 만큼 줄 <br><br>바꿈가능
+'( < br > )'으로 원하는 만큼 줄 <br><br>바꿈가능
 
 # 표 
 | 제목      |    내용    | 비고     |
